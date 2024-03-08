@@ -1,0 +1,77 @@
+Beras Bulog = 1
+Beras Belida = 2
+Beras Badminton = 3 
+Beras Pandan Wangi
+Beras Anak Dara
+Beras Bumi Ayu
+Beras Topi Koki
+Kedelai Bahan Baku
+Cabe Merah
+Cabe Kering
+Cabe Hijau
+Cabe Rawit
+Mentega
+B Merah
+B Putih
+Gula Curah
+Gula Gulaku
+Gula Sania
+Gula Indo Sugar
+Gula Rose Brand
+Garam Beryodium
+Minyak Curah
+Minyak ROse Brand
+Minyak SUnco
+Minyak Filma
+Minyak Bimoli
+Minyak Tropical
+Minyak Sania
+Minyak Fortune 
+Susu Indo Milk
+Susu Bagus
+Susu Frasian Flag
+Susu Pomela
+Susu Cap Junjung
+Susu Boleh
+Susu Bubuk Balita SGM
+Susu Dancow Vanilla
+Tepung Terigu
+Udang
+Daging Sapi
+Daging Ayam Kampung
+Daging Ayam Ras
+Telur Ayam Ras
+Telur Ayam Kampung
+Bandeng
+Kembung
+Tongkol
+Tuna
+Cakalang
+Mie Instant
+Tempe Mentah
+Tahu Mentah
+Pupuk Subsidi ZA
+Pupuk Subsidi SP-36
+NPK
+Urea
+Organik
+Pupuk Non Subsidi ZA
+Pupuk Non Subsidi TSP
+Pupuk Non Subsidi NPK
+Pupuk Non Subsidi Urea
+Pupuk Non Subsidi KCL
+Gas LPG Non Subsidi 5 Kg
+Gas LPG Non Subsidi 12 Kg
+Gas LPG Subsidi 3Kg
+Triplek 4mm
+Triplek 6mm
+Triplek 8mm
+Triplek 12mm
+Semen Padang
+Holcin
+Tiga Roda
+Besi Baja Konstruksi
+Baja Ringan
+Jeruk 
+Pisang 
+Jagung
